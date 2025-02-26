@@ -1,6 +1,7 @@
 👋 Hi, I’m @Simran-Kumari123  
 👀 I’m interested in web development, and creative projects.  
-🌱 I’m currently learning Hibernate, servlets, Jsp and  web applications.  
+🌱  I’m currently learning Hibernate, Servlets, JSP, web applications, HTML, CSS ,javascript, and React.js. 
+
 💞️ I’m looking to collaborate on full-stack web development projects and tech-based art.  
 📫 How to reach me: [linkedin.com/in/simran-kumari-7a70712a7]  
 😄 Pronouns: She/Her
